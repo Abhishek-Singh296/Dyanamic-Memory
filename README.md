@@ -61,6 +61,7 @@ int main()
 ```
 
 ## __Output:__
+![Screenshot 2023-04-24 011953](https://user-images.githubusercontent.com/113619312/234024037-fb86584f-628e-4982-ad4e-88be746ebd5a.png)
 
 
 
